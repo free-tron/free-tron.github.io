@@ -15,13 +15,13 @@ Complete my own brief education in using github pages. Hence the use of a blog-s
 Use github pages for a bigger probably closed-source web project. I'll make it open source if I can, but it will be for somebody else and so an agreement to the open-naturedness {sic} is in order before any release and further licensing.
 
 ```markdown
-Do work. Live. Laught. Love. Eat. Enjoy. Sleep. Repeat.
+Do work. Live. Laugh. Love. Eat. Enjoy. Sleep. Repeat.
+
+##PROCESS:##
 
 # Begin the thing
 ## Do the thing
 ### Finish the thing
-
-'fish'
 
 ### Support or Contact
 
