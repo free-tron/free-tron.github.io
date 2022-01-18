@@ -8,7 +8,7 @@ You are welcome to pilfer any knowledge or code you might find interesting from 
 
 ### Goal
 
-Complete my own brief education in using github pages
+Complete my own brief education in using github pages. Hence the use of a blog-style template. This isn't going to BE a blog per se. Just a collection of files currently under test for various purposes and to get a handle of things from a flexibility perspective.
 
 ### Ultimate goal
 
