@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Free-TRON
 
 Initially this is a live testing ground. This may continue for an undefined length of time, for this particular project live testing is necessary.
 
 The test is the thing you are looking at. I'm teaching myself the process in an unusual fashion.
 
-### Markdown
+You are welcome to pilfer any knowledge or code you might find interesting from this project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Goal
+
+Complete my own brief education in using github pages
+
+### Ultimate goal
+
+Use github pages for a bigger web project.
 
 ```markdown
 Syntax highlighted code block
