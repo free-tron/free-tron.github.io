@@ -17,11 +17,11 @@ Use github pages for a bigger probably closed-source web project. I'll make it o
 ```markdown
 Do work. Live. Laught. Love. Eat. Enjoy. Sleep. Repeat.
 
-# Beginning
-## Middle
-### End
+# Begin the thing
+## Do the thing
+### Finish the thing
 
-**Bold** and _Italic_ and `Code` text
+*Bold* and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
