@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/free-tron/free-tron.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Initially this is a live testing ground. This may continue for an undefined length of time, for this particular project live testing is necessary.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The test is the thing you are looking at. I'm teaching myself the process in an unusual fashion.
 
 ### Markdown
 
