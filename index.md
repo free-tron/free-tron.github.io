@@ -12,20 +12,14 @@ Complete my own brief education in using github pages. Hence the use of a blog-s
 
 ### Ultimate goal
 
-Use github pages for a bigger web project.
+Use github pages for a bigger probably closed-source web project. I'll make it open source if I can, but it will be for somebody else and so an agreement to the open-naturedness {sic} is in order before any release and further licensing.
 
 ```markdown
-Syntax highlighted code block
+Do work. Live. Laught. Love. Eat. Enjoy. Sleep. Repeat.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Beginning
+## Middle
+### End
 
 **Bold** and _Italic_ and `Code` text
 
